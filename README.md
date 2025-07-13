@@ -109,27 +109,6 @@ Use `nn.setActivationFunction(...)` para alterar.
 
 MIT
 
----
-
-## Contribuição
-
-Fique à vontade para abrir issues, enviar pull requests ou sugerir melhorias. Feedback é sempre bem-vindo!
-
----
-
-### Estrutura resumida do README
-
-1. **Título + Badge**
-2. **Visão geral / features**
-3. **Instalação**
-4. **Uso básico**
-5. **Serialização / genetic algorithms**
-6. **Activação**
-7. **Roadmap**
-8. **Referências**
-9. **Licença**
-10. **Contribuição**
-
 [1]: https://github.com/kim-marcel/basic_neural_network?utm_source=chatgpt.com "A very basic Java Neural Network Library. - GitHub"
 [2]: https://stackoverflow.com/questions/5750061/javanns-parsing-the-created-neural-network?utm_source=chatgpt.com "java - JavaNNS - Parsing the created Neural Network - Stack Overflow"
 [3]: https://medium.com/%40nirmal1067/building-a-neural-network-from-scratch-in-java-a-step-by-step-guide-4d06afc5ad1d?utm_source=chatgpt.com "Building a Neural Network from Scratch in Java - Medium"
