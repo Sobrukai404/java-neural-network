@@ -130,10 +130,6 @@ Fique à vontade para abrir issues, enviar pull requests ou sugerir melhorias. F
 9. **Licença**
 10. **Contribuição**
 
----
-
-Se quiser que eu adicione badges (ex.: Maven Central, cobertura de testes), conteúdos adicionais ou moldes específicos, só avisar!
-
 [1]: https://github.com/kim-marcel/basic_neural_network?utm_source=chatgpt.com "A very basic Java Neural Network Library. - GitHub"
 [2]: https://stackoverflow.com/questions/5750061/javanns-parsing-the-created-neural-network?utm_source=chatgpt.com "java - JavaNNS - Parsing the created Neural Network - Stack Overflow"
 [3]: https://medium.com/%40nirmal1067/building-a-neural-network-from-scratch-in-java-a-step-by-step-guide-4d06afc5ad1d?utm_source=chatgpt.com "Building a Neural Network from Scratch in Java - Medium"
